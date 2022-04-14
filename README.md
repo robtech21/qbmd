@@ -1,0 +1,2 @@
+# qbmd
+Oversimplified Mindustry Syntax
